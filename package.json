@@ -20,10 +20,11 @@
     "url": "git+https://github.com/setyo96/telegram-bot.git"
   },
   "keywords": [
-    "telegram-bot-chat-gpt",
+    "telegram-bot",
     "telegram-javascript",
     "telegram",
-    "chat-gpt"
+    "chat-gpt",
+    "inline-keyboards-markup"
   ],
   "author": "setyo-nugroho",
   "license": "MIT",
